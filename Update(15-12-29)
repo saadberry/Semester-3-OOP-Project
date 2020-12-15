@@ -1,0 +1,9 @@
+//Update as of 15/12/20
+
+//Approximately 85% of the project backend has been completed. 
+
+//Implementations left:
+
+// ** Link my C++ code to Python.
+// ** Automate a process to send a verification email to user (thru Python)
+// ** Create a GUI for the program (  Python- Tkinter )
